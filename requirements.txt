@@ -1,0 +1,26 @@
+# Enhanced RAG System Requirements (Core Only)
+# ===============================================
+
+# Essential dependencies
+pandas
+numpy
+sentence-transformers
+torch
+transformers
+python-docx
+tqdm
+
+# Document processing (minimal)
+unstructured
+pypdf
+
+# Optional: For better performance (lightweight)
+faiss-cpu
+
+# Optional: Basic web capabilities
+requests
+beautifulsoup4
+
+# Optional: API development (lightweight)
+fastapi
+uvicorn
